@@ -2,8 +2,7 @@
 
 - 💻 I love trying different programming languages and projects 
 - 🏫 I am currently a student at Asia Pacific University (APU) 
-- 👨‍🏫 I am currently not working as a part-time coding instructor 
-- 📧 How to reach yongwai: [yongwaichong@gmail.com](mailto:yongwaichong@gmail.com)
+- 👨‍🏫 I am a boy
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BehBeh-hi&show_icons=true&theme=tokyonight)
 
